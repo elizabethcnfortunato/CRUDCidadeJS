@@ -1,0 +1,15 @@
+Cruds Básicos
+
+1 - https://medium.com/@etiennerouzeaud/a-simple-crud-application-with-javascript-ebc82f688c59
+2 - https://www.codemag.com/article/1511031/CRUD-in-HTML-JavaScript-and-jQuery
+3 - https://www.codeofaninja.com/2012/11/javascript-array-crud-example.html
+4 - https://softauthor.com/firebase-crud-javascript-web-tutorial-part-2-create-update-delete/
+5 - https://davidwalsh.name/crud-javascript-class
+
+Criando um menu popup customizado
+
+1 - https://www.devmedia.com.br/criando-um-menu-popup-customizado-com-html-css-e-javascript/27293
+
+Interface Metro
+
+1 - https://www.devmedia.com.br/interface-metro-criando-um-menu-metro-com-html-e-css/31041 

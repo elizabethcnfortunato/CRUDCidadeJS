@@ -1,0 +1,20 @@
+//Crud Básico sem estrutura JS, para cadastro de países
+//PASSO1: tabela HTML.
+
+<html>
+	<head>
+		<title>Heyyy!!!</title>
+	</head>
+	<body>
+		<h1>Tabela contendo </h1>
+		<p id = "counter">
+			<table>
+				<tr>
+					<th>Name</th>
+				</tr>
+				<tbody id="countries">
+				</tbody>
+			</table>
+		</p>
+	</body>
+</html>
